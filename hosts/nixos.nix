@@ -10,7 +10,6 @@
     # Módulos do sistema
     ../../modules/system-base.nix
     ../../modules/desktop/cinnamon.nix
-    ../../modules/services/containers.nix
     ../../modules/services/networking.nix
     ../../modules/users.nix
 
